@@ -1,3 +1,3 @@
 # Password-Generator
 
-usage `python3.7 newPassword.py`
+Usage on terminal: `user$python3.7 newPassword.py`
